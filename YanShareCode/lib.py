@@ -1,6 +1,5 @@
 def try_me():
-    print 'The class is very interesting.'
-    return
+    return 'The class is very interesting.'
 
 def sqr(a):
     return a**2
